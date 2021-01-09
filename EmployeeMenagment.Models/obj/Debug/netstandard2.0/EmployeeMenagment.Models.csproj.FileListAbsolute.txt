@@ -1,0 +1,9 @@
+C:\Users\sari\Documents\BlazorApp1\EmployeeMenagment.Models\bin\Debug\netstandard2.0\EmployeeMenagment.Models.deps.json
+C:\Users\sari\Documents\BlazorApp1\EmployeeMenagment.Models\bin\Debug\netstandard2.0\EmployeeMenagment.Models.dll
+C:\Users\sari\Documents\BlazorApp1\EmployeeMenagment.Models\bin\Debug\netstandard2.0\EmployeeMenagment.Models.pdb
+C:\Users\sari\Documents\BlazorApp1\EmployeeMenagment.Models\obj\Debug\netstandard2.0\EmployeeMenagment.Models.csprojAssemblyReference.cache
+C:\Users\sari\Documents\BlazorApp1\EmployeeMenagment.Models\obj\Debug\netstandard2.0\EmployeeMenagment.Models.AssemblyInfoInputs.cache
+C:\Users\sari\Documents\BlazorApp1\EmployeeMenagment.Models\obj\Debug\netstandard2.0\EmployeeMenagment.Models.AssemblyInfo.cs
+C:\Users\sari\Documents\BlazorApp1\EmployeeMenagment.Models\obj\Debug\netstandard2.0\EmployeeMenagment.Models.csproj.CoreCompileInputs.cache
+C:\Users\sari\Documents\BlazorApp1\EmployeeMenagment.Models\obj\Debug\netstandard2.0\EmployeeMenagment.Models.dll
+C:\Users\sari\Documents\BlazorApp1\EmployeeMenagment.Models\obj\Debug\netstandard2.0\EmployeeMenagment.Models.pdb

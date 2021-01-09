@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "gobUREJEVwsk0guB+Q9fQTeKcISZHYDydE7eUmsCdx1a1EHK4CTBH0deRTLdrPf0EA+Pb3DCnKn4oABrNdlPyA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sari\\Documents\\BlazorApp1\\EmployeeMenagment.Models\\EmployeeMenagment.Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\sari\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
